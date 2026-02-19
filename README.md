@@ -28,13 +28,13 @@ Este projeto foi criado com foco em estudo e prática de UI, componentização, 
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/Gioomoraes/projeto-site
+git clone https://github.com/Gioomoraes/landing-page
 ```
 
 2. Acesse o diretório do projeto:
 
    ```bash
-   cd projeto-site
+   cd landing-page
    ```
 
 3. Instale as dependências:
